@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/credit-form/static/css/main.d17ce7be.chunk.css",
+    "main.js": "/credit-form/static/js/main.1f550fb5.chunk.js",
+    "main.js.map": "/credit-form/static/js/main.1f550fb5.chunk.js.map",
+    "runtime-main.js": "/credit-form/static/js/runtime-main.9590ff8a.js",
+    "runtime-main.js.map": "/credit-form/static/js/runtime-main.9590ff8a.js.map",
+    "static/js/2.b1bf3c9c.chunk.js": "/credit-form/static/js/2.b1bf3c9c.chunk.js",
+    "static/js/2.b1bf3c9c.chunk.js.map": "/credit-form/static/js/2.b1bf3c9c.chunk.js.map",
+    "static/js/3.a9aaa6fc.chunk.js": "/credit-form/static/js/3.a9aaa6fc.chunk.js",
+    "static/js/3.a9aaa6fc.chunk.js.map": "/credit-form/static/js/3.a9aaa6fc.chunk.js.map",
+    "index.html": "/credit-form/index.html",
+    "static/css/main.d17ce7be.chunk.css.map": "/credit-form/static/css/main.d17ce7be.chunk.css.map",
+    "static/js/2.b1bf3c9c.chunk.js.LICENSE.txt": "/credit-form/static/js/2.b1bf3c9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9590ff8a.js",
+    "static/js/2.b1bf3c9c.chunk.js",
+    "static/css/main.d17ce7be.chunk.css",
+    "static/js/main.1f550fb5.chunk.js"
+  ]
+}
