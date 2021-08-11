@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/credit-form/static/css/main.d17ce7be.chunk.css",
-    "main.js": "/credit-form/static/js/main.1f550fb5.chunk.js",
-    "main.js.map": "/credit-form/static/js/main.1f550fb5.chunk.js.map",
+    "main.js": "/credit-form/static/js/main.64af37cf.chunk.js",
+    "main.js.map": "/credit-form/static/js/main.64af37cf.chunk.js.map",
     "runtime-main.js": "/credit-form/static/js/runtime-main.9590ff8a.js",
     "runtime-main.js.map": "/credit-form/static/js/runtime-main.9590ff8a.js.map",
     "static/js/2.b1bf3c9c.chunk.js": "/credit-form/static/js/2.b1bf3c9c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9590ff8a.js",
     "static/js/2.b1bf3c9c.chunk.js",
     "static/css/main.d17ce7be.chunk.css",
-    "static/js/main.1f550fb5.chunk.js"
+    "static/js/main.64af37cf.chunk.js"
   ]
 }
